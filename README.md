@@ -17,7 +17,7 @@
 
 
 
-# To DO List
+# To DO List APP
 - To Do List is a simple application that you can use to list your daily tasks and check them off as you complete the task.
 
 
